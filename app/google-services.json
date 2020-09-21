@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "557686985681",
+    "firebase_url": "https://feyzaminnetoglu.firebaseio.com",
+    "project_id": "feyzaminnetoglu",
+    "storage_bucket": "feyzaminnetoglu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557686985681:android:bf686e52c5a5980802c6f0",
+        "android_client_info": {
+          "package_name": "com.example.feyzaminnetoglu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557686985681-63khqa55ruv5nsivtgb9rmsuuanu2k6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.feyzaminnetoglu",
+            "certificate_hash": "a073939d4dfd7599299a2b08202a17d3d58b7646"
+          }
+        },
+        {
+          "client_id": "557686985681-4fv8a38t7smn8bro8q9oeh8n941n3oqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsiPin7ZaXStP5KG4Zzfdddnn_5lRnCSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557686985681-4fv8a38t7smn8bro8q9oeh8n941n3oqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

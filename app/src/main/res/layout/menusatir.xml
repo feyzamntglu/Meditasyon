@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="12dp"
+    android:background="@drawable/list_btn">
+    <ImageView
+        android:layout_width="27dp"
+        android:layout_height="27dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginEnd="4dp"
+        android:src="@drawable/menusec"/>
+    <TextView
+        android:id="@+id/menuAdiText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="menü öğesi"
+        android:textStyle="bold"
+        android:textColor="#661466"
+        android:textSize="17sp" />
+
+
+</LinearLayout>
